@@ -1,2 +1,2 @@
-# JAVAJUNGSUK
+# JAVAJUNGSUK(Java)
 important examples
