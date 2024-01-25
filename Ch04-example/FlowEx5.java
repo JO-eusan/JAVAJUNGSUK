@@ -37,5 +37,7 @@ class FlowEx5
         }
 
         System.out.printf("당신의 학점은 %c%c입니다.", grade, opt);
+
+        scanner.close();
     }
 }
