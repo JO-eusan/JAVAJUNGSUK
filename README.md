@@ -1,2 +1,2 @@
 # JAVAJUNGSUK(Java)
-important examples
+study java language
