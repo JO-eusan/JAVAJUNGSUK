@@ -1,2 +1,14 @@
-# JAVAJUNGSUK(Java)
-study java language
+# Book : 자바의 정석
+### 챕터 별로 실습 문제를 기록하였습니다.
+
+[학습 내용](https://thundering-sailor-41c.notion.site/Java-00ed46ea4a5f4257aa47998b75bece22?pvs=74)
+
+> 1. 자바를 시작하기 전에
+> 2. 변수
+> 3. 연산자
+> 4. 조건문과 반복분
+> 5. 배열
+> 6. 객체지향 프로그래밍1
+> 7. 객체지향 프로그래밍2
+> 8. 예외처리
+> 9. java.lang 패키지와 유용한 클래스
